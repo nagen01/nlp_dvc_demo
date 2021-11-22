@@ -1,0 +1,5 @@
+source_data_url: https://common-data-001.s3.ap-south-1.amazonaws.com/aiops-class-demo-data/data.xml
+
+source_download:
+  data_dir: data
+  data_xml: data.xml 
